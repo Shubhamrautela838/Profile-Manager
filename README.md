@@ -9,10 +9,10 @@ This project is designed as an interview-ready assignment demonstrating backend 
 ## 🚀 Live URLs (Free Hosting)
 
 - Backend API (Render):  
-  https://candidate-backend.onrender.com
+  https://profile-manager-cd6h.onrender.com
 
 - Frontend UI (Vercel):  
-  https://candidate-profile.vercel.app
+  https://profile-frontend-eight.vercel.app/
 
 ---
 
